@@ -7,7 +7,7 @@ let apiKey = 24440972;
 
 let getFilm = () => {
     let filmName = filmNameRef.value;
-    let url = `http://www.omdbapi.com/?t=${filmName}&apikey=${apiKey}`;
+    let url = `https://www.omdbapi.com/?t=${filmName}&apikey=${apiKey}`;
     
     // If the input field is empty, do this
     if(filmName.length <= 0) {
