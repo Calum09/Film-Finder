@@ -6,6 +6,8 @@ Film Finder is a web app that uses the OMDB api to display information about the
 - Genre
 - Actors
 
+Check it out here: https://calum09.github.io/Film-Finder/
+
 ---
 
 ### Installation Instructions
