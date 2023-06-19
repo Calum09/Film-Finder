@@ -8,6 +8,8 @@ Film Finder is a web app that uses the OMDB api to display information about the
 
 Check it out here: https://calum09.github.io/Film-Finder/
 
+<img width="632" alt="Screenshot 2023-06-19 at 16 27 58" src="https://github.com/Calum09/Film-Finder/assets/111386433/84b89fd5-b98e-4d6d-892d-de24268e21b1">
+
 ---
 
 ### Installation Instructions
