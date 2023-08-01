@@ -62,7 +62,7 @@ const Clearinput = () => {
   input.value = "";
 };
 
-// Adding an event listener to the search button
+// Adding an event listener to the input field
 
 input.addEventListener("keydown", function (event) {
   // Check if the Enter key was pressed
