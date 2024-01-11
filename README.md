@@ -1,4 +1,4 @@
-### Film Finder Web App
+### Film Finder 
 
 Film Finder is a web app that uses the OMDB api to display information about the film you have searched such as:
 - Title
